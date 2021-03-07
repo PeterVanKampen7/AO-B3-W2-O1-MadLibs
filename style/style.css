@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(97, 97, 97);
+    font-family: 'Roboto', sans-serif;
+}
+
+#content{
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1{
+    color: white;
+    font-family: 'Frijole', cursive;
+    font-size: 62px;
+    padding: 30px 15px;
+}
+
+ul{
+    width: 100%;
+    background-color: rgb(200, 0, 0);
+    list-style: none;
+    padding: 15px 0px;
+}
+
+li{
+    display: inline;  
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 15px;
+}
+
+section{
+    width: 100%;
+    background-color: white;
+}
+
+h2{
+    padding: 20px 10px;
+}
+
+form{
+    position: relative;
+    padding-bottom: 35px;
+}
+
+label{
+    padding: 0 10px;
+}
+
+input{
+    position: absolute;
+    right: 40px;
+}
+
+#required{
+    color: red;
+}
+
+#submit{
+    right: 140px;
+}
+
+p{
+    padding: 10px 10px;
+}
+
+footer{
+    width: 100%;
+    background-color: rgb(138, 138, 138);
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+}

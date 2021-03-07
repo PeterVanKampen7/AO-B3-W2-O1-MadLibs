@@ -62,7 +62,7 @@
                     </p>
       
                     <footer>
-                        &copy; Peter van Kampen
+                        &copy; 2021 Peter van Kampen
                     </footer>';
                     die();
                 }
@@ -98,7 +98,7 @@
         </section>
 
         <footer>
-            &copy; Peter van Kampen
+            &copy; 2021 Peter van Kampen
         </footer>
     </div>
 </body>

@@ -58,7 +58,7 @@
                     $slecht = testInput($_POST["slecht"]);
                     $overkomen = testInput($_POST["overkomen"]);
                     echo '<p>
-                        
+                        Er zijn veel mensen die niet kunnen '.$kunnen.'. Neem nou '.$persoon.'. Zelfs met de hulp van een '.$vakantie.' of zelfs '.$getal.' kan '.$persoon.' niet '.$kunnen.'. Dat heeft niet te maken met een gebrek aan '.$eigenschap.', maar met een te veel aan '.$slecht.'. Te veel '.$slecht.' leidt tot '.$overkomen.' en dat is niet goed als je wilt '.$kunnen.'. Helaas voor '.$persoon.'.
                     </p>
       
                     <footer>
